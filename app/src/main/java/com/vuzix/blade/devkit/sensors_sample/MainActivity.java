@@ -91,7 +91,6 @@ public class MainActivity extends ActionMenuActivity implements SensorEventListe
         super.onPause();
 
         // unregister listener
-        super.onPause();
         sensorManager.unregisterListener(this);
     }
 
