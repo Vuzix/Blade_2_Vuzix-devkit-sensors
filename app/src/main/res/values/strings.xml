@@ -7,6 +7,5 @@
     <string name="mag_sensor">Magnetometer Data</string>
     <string name="gyro_sensor">Gyroscope Data</string>
     <string name="light_sensor">Ambient Light Data</string>
-    <string name="press_sensor">Barometer Data</string>
     <string name="na_data">N/A</string>
 </resources>

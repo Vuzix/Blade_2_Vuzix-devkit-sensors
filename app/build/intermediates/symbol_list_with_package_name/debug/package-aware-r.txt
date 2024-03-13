@@ -57,7 +57,6 @@ id sensor_light_data_textView
 id sensor_mag_data_textView
 id sensor_mag_data_textView2
 id sensor_mag_data_textView3
-id sensor_press_data_textView
 integer action_menu_animation_duration
 layout action_menu_switch_item
 layout activity_main
@@ -74,7 +73,6 @@ string gyro_sensor
 string light_sensor
 string mag_sensor
 string na_data
-string press_sensor
 string sen_data
 style ActionMenuAnimationStyle
 style AppTheme

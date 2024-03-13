@@ -1,0 +1,7 @@
+#Wed Feb 21 10:45:48 EST 2024
+base.0=C\:\\Users\\brody_wood\\Downloads\\Blade_2_Vuzix-devkit-sensors-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=1/classes.dex
+renamed.1=classes2.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\brody_wood\\Downloads\\Blade_2_Vuzix-devkit-sensors-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex

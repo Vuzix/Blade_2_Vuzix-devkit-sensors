@@ -31,7 +31,6 @@
     <string name="light_sensor">Ambient Light Data</string>
     <string name="mag_sensor">Magnetometer Data</string>
     <string name="na_data">N/A</string>
-    <string name="press_sensor">Barometer Data</string>
     <string name="sen_data">Sensors Data</string>
     <style name="ActionMenuAnimationStyle">
         <item name="android:windowEnterAnimation">@anim/action_menu_enter_animation</item>

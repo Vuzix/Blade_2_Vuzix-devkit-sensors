@@ -168,11 +168,6 @@ public class MainActivity extends ActionMenuActivity implements SensorEventListe
                 Log.d(TAG, "Ambient Light Data: " + sensorEvent.values[0]);
 
                 break;
-            case Sensor.STRING_TYPE_PRESSURE:
-                ((TextView)findViewById(R.id.sensor_press_data_textView)).setText(String.valueOf(sensorEvent.values[0]));
-                Log.d(TAG, "Pressure/Barometer Data: " + sensorEvent.values[0]);
-
-                break;
 
         }
 
